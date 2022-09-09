@@ -67,10 +67,6 @@
     flex:1;
     order: 4;
   }
-
-  .box-5{
-    flex:1;
-  }
   
   .random {
     text-align: center;
@@ -82,4 +78,10 @@
 
   .text-center {
     text-align: right;
+  }
+
+  .thailand {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
