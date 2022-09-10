@@ -33,16 +33,19 @@
   .container-4{
     display: flex;
     justify-content: center;
+    background-color: #E5E7EB;
   }
 
   .container-5{
     display: flex;
     justify-content: center;
+    background-color: #3882F6;
   }
 
   .container-6{
     display: flex;
     justify-content: center;
+    background-color: #1F2937;
   }
   
   .container-1 div, .container-2 div, .container-3 div, .container-4 div, .container-5 div{
@@ -76,6 +79,7 @@
 
   .thor {
     text-align: right;
+    font-weight: bold;
   }
 
   .text-center {
@@ -128,3 +132,30 @@ a {
     text-align: center;
 }
 
+.random {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.thailandimgText {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.copyRight {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ccc;
+}
+
+.callToAction {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #E5E7EB;
+    font-weight: bold;
+}
