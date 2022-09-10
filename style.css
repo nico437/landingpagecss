@@ -1,6 +1,7 @@
 @media(min-width:468px){
     .container-1{
       display:flex;
+      background-color: #1F2937;
       /*
       align-items:flex-start;
       align-items:flex-end;
@@ -89,3 +90,9 @@
   .thailandimgText {
     text-align: center;
   }
+
+  .headerLogo {
+    font-size: 24px;
+    color: #F9FAF8;
+  }
+  
