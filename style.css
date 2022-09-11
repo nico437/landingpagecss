@@ -53,10 +53,6 @@
     background-color: #1F2937;
   }
   
-  .container-1 div, .container-2 div, .container-3 div, .container-4 div, .container-5 div{
-    border:1px #ccc solid;
-    padding:10px;
-  }
   
   .box-1{
     flex:4;
